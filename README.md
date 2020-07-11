@@ -10,6 +10,6 @@ $ python3 main.py
 ```
 
 ### Pictures
-[![](https://raw.githubusercontent.com/Allespro/MultiTelegram/master/images/menu.png)]
+![](https://raw.githubusercontent.com/Allespro/MultiTelegram/master/images/menu.png)
 
-[![](https://raw.githubusercontent.com/Allespro/MultiTelegram/master/images/menu2.png)]
+![](https://raw.githubusercontent.com/Allespro/MultiTelegram/master/images/menu2.png)
