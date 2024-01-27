@@ -10,9 +10,9 @@ def CheckPatches():
 		try:
 			os.mkdir(DataDir)
 		except OSError:
-			exit("Can't create %s" % path)
+			exit("Can't create %s" % DataDir)
 		else:
-			print ("Directory %s created!" % path)
+			print ("Directory %s created!" % DataDir)
 	if os.path.exists(Binary) == False:
 		exit("No Telegram binary!")
 
